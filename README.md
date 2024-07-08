@@ -6,3 +6,4 @@ This repository contains data on soccer players from 2019, focusing on their mar
 
 **`data`**: A CSV file containing data on soccer players, including their ID, name, age, photo URL, nationality, flag URL, overall rating, potential rating, club, club logo URL, market value, and wage.
 - **`soc.py`**: A Python script that reads the CSV file and generates a scatter plot comparing the market value and wage of the players.
+- **`soc.ipynb`**: A Jupyter Notebook view of the contents.
